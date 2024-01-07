@@ -1,0 +1,12 @@
+Please summarize rules(or skills) for solving this task based on the information below.
+
+Note that the output should satisfy:
+1. The rules can be explained with examples if necessary.
+2. The method of applying the rule needs to be given.
+3. Don't be too long.
+
+Task:
+
+{task_description}
+
+{examples}

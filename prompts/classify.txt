@@ -1,0 +1,9 @@
+You are an expert in {task_type}, {task_description}
+
+{examples_or_grimoire}
+
+Please answer:
+
+{question}
+
+Only need to output the answer, no additional explanation is needed.

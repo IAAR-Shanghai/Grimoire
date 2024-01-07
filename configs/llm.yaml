@@ -1,0 +1,67 @@
+# ─── Models Accessed Through API ──────────────────────────────────────────────
+
+Baichuan2_53B_Chat:
+    type: api
+    url: "https://api.baichuan-ai.com/v1/chat"
+    api_key: "xxxxxx"
+    secret_key: "xxxxxx"
+
+GPT:
+    type: api
+    api_key: "sk-xxxxxx"
+
+
+# ─── Models Accessed Through Remote Deployment ────────────────────────────────
+# Note: only for internal use currently.
+
+GPT_transit:
+    type: remote
+    url: "xxxxxx"
+    token: "xxxxxx"
+    user_agent: "xxxxxx"
+    host: "xxxxxx"
+
+
+# ─── Models Accessed Through Local Deployment ────────────────────────────────
+# Note: Use vLLM to deploy models.
+# Link: https://docs.vllm.ai/en/latest/getting_started/quickstart.html
+
+Baichuan2_13B_Chat:
+    type: Local
+    url: "http://xx.xx.xx.xx:xxxx/generate"
+
+Baichuan2_7B_Chat:
+    type: Local
+    url: "http://xx.xx.xx.xx:xxxx/generate"
+
+ChatGLM3_6B:
+    type: Local
+    url: "http://xx.xx.xx.xx:xxxx/generate"
+
+GPTj_6B:
+    type: Local
+    url: "http://xx.xx.xx.xx:xxxx/generate"
+
+LLaMA2_13B_Chat:
+    type: Local
+    url: "http://xx.xx.xx.xx:xxxx/generate"
+
+LLaMA2_70B_Chat:
+    type: Local
+    url: "http://xx.xx.xx.xx:xxxx/generate"
+
+LLaMA2_7B_Chat:
+    type: Local
+    url: "http://xx.xx.xx.xx:xxxx/generate"
+
+PHI2:
+    type: Local
+    url: "http://xx.xx.xx.xx:xxxx/generate"
+
+Qwen_14B_Chat:
+    type: Local
+    url: "http://xx.xx.xx.xx:xxxx/generate"
+
+Qwen_7B_Chat:
+    type: Local
+    url: "http://xx.xx.xx.xx:xxxx/generate"

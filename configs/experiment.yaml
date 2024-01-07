@@ -1,0 +1,63 @@
+# This file contains three parts: data, llm, and grimoire_generator
+
+
+# ─── Tasks To Be Evaluated On ─────────────────────────────────────────────────
+
+# Note:
+# * Only string values are allowed
+
+data:
+    - "SST5"
+    - "Subj"
+    - "AgNews"
+    - "TREC"
+    - "RTE"
+    - "QNLI"
+    - "hate_speech18"
+    - "ethos"
+
+
+# ─── Models To Be Evaluated ───────────────────────────────────────────────────
+
+# There are three types of models: api, local, and remote
+# Configure models you need and their corresponding parameters under each type
+# Use ~ if there is no parameter to be configured
+
+# Note:
+# * For API models, you need to apply for an API key for each model.
+# * For Local models, you need to deploy them first using vLLM.
+# * For Remote models, they are only for internal use currently.
+
+llm:
+    api:
+        # - GPT:
+        #     model_name: gpt-3.5-turbo
+        #     report: true
+    local:
+        - LLaMA2_70B_Chat: ~
+        - LLaMA2_13B_Chat: ~
+        - Baichuan2_7B_Chat: ~
+        - PHI2: ~
+
+    remote:
+        - GPT_transit:
+            model_name: gpt-3.5-turbo
+            report: true
+        - GPT_transit:
+            model_name: gpt-4-1106-preview
+            report: true
+
+
+# ─── The Model Used To Generate Grimoire ──────────────────────────────────────
+
+# Note:
+# * One and only one model is allowed
+# * Any type of model is allowed
+
+grimoire_generator:
+    llm_type: remote
+    llm: GPT_transit
+    llm_params:
+        model_name: gpt-4-1106-preview
+        max_new_tokens: 1024
+        report: true

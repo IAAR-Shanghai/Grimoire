@@ -1,0 +1,129 @@
+SST5:
+    data_name: SST5
+    file_name:
+        - train.json
+        - test.json
+    data_num:
+        - 2000
+        - 1000
+    task_type: sentiment analysis
+    input: text
+    data_label_name: ans_text
+    data_label_list:
+        - very positive
+        - positive
+        - neutral
+        - negative
+        - very negative
+    task_description: "Please classify the sentiment of the sentence into very positive / positive / neutral / negative / very negative."
+Subj:
+    data_name: Subj
+    file_name:
+        - train.json
+        - test.json
+    data_num:
+        - 2000
+        - 1000
+    task_type: sentiment analysis
+    input: text
+    data_label_name: ans_text
+    data_label_list:
+        - subjective
+        - objective
+    task_description: "Please classify the sentiment of the sentence into subjective / objective."
+AgNews:
+    data_name: AgNews
+    file_name:
+        - train.json
+        - test.json
+    data_num:
+        - 2000
+        - 1000
+    task_type: topic classification
+    input: text
+    data_label_name: ans_text
+    data_label_list:
+        - World
+        - Sports
+        - Business
+        - Technology
+    task_description: "Please classify the topic of the sentence into World / Sports / Business / Technology."
+TREC:
+    data_name: TREC
+    file_name:
+        - train.json
+        - test.json
+    data_num:
+        - 1000
+        - 500
+    task_type: topic classification
+    input: text
+    data_label_name: ans_text
+    data_label_list:
+        - Abbreviation
+        - Entity
+        - Description
+        - Person
+        - Location
+        - Number
+    task_description: "Please classify the topic of the sentence into Abbreviation / Entity / Description / Person / Location / Number."
+RTE:
+    data_name: RTE
+    file_name:
+        - train.json
+        - test.json
+    data_num:
+        - 1832
+        - 210
+    task_type: natural language inference
+    input: text
+    data_label_name: ans_text
+    data_label_list:
+        - "True"
+        - "False"
+    task_description: "Please answer the question, just output True / False."
+QNLI:
+    data_name: QNLI
+    file_name:
+        - train.json
+        - test.json
+    data_num:
+        - 2000
+        - 1000
+    task_type: natural language inference
+    input: text
+    data_label_name: ans_text
+    data_label_list:
+        - "True"
+        - "False"
+    task_description: "Please answer the question, just output True / False."
+hate_speech18:
+    data_name: hate_speech18
+    file_name:
+        - train.json
+        - test.json
+    data_num:
+        - 2000
+        - 1000
+    task_type: hate speech detection
+    input: text
+    data_label_name: ans_text
+    data_label_list:
+        - hate
+        - no hate
+    task_description: "Please classify the sentence into hate / no hate."
+ethos:
+    data_name: ethos
+    file_name:
+        - train.json
+        - test.json
+    data_num:
+        - 668
+        - 300
+    task_type: hate speech detection
+    input: text
+    data_label_name: ans_text
+    data_label_list:
+        - hate
+        - no hate
+    task_description: "Please classify the sentence into hate / no hate."

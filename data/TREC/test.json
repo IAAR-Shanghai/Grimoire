@@ -1,0 +1,2002 @@
+[
+    {
+        "text": "How far is it from Denver to Aspen ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What county is Modesto , California in ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Who was Galileo ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is an atom ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "When did Hawaii become a state ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How tall is the Sears Building ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "George Bush purchased a small interest in which baseball team ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is Australia 's national flower ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Why does the moon turn orange ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is autism ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What city had a world fair in 1900 ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What person 's head is on a dime ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is the average weight of a Yellow Labrador ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Who was the first man to fly across the Pacific Ocean ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "When did Idaho become a state ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the life expectancy for crickets ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What metal has the highest melting point ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Who developed the vaccination against polio ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is epilepsy ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What year did the Titanic sink ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Who was the first American to walk in space ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is a biosphere ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What river in the US is known as the Big Muddy ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is bipolar disorder ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is cholesterol ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who developed the Macintosh computer ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is caffeine ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What imaginary line is halfway between the North and South Poles ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Where is John Wayne airport ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What hemisphere is the Philippines in ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is the average speed of the horses at the Kentucky Derby ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Where are the Rocky Mountains ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What are invertebrates ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the temperature at the center of the earth ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "When did John F. Kennedy get elected as President ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How old was Elvis Presley when he died ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Where is the Orinoco River ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "How far is the service line from the net in tennis ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How much fiber should you have per day ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How many Great Lakes are there ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Material called linen is made from what plant ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is Teflon ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is amitriptyline ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is a shaman ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the proper name for a female walrus ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is a group of turkeys called ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "How long did Rip Van Winkle sleep ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What are triglycerides ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "How many liters in a gallon ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the name of the chocolate company in San Francisco ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What are amphibians ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who discovered x-rays ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "Which comedian 's signature line is `` Can we talk '' ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is fibromyalgia ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is done with worn or outdated flags ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What does cc in engines mean ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "When did Elvis Presley die ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the capital of Yugoslavia ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Where is Milan ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is the speed hummingbirds fly ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the oldest city in the United States ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What was W.C. Fields ' real name ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What river flows between Fargo , North Dakota and Moorhead , Minnesota ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What do bats eat ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What state did the Battle of Bighorn take place in ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Who was Abraham Lincoln ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What do you call a newborn kangaroo ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What are spider veins ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What day and month did John Lennon die ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What strait separates North America from Asia ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is the population of Seattle ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How much was a ticket for the Titanic ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the largest city in the world ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What American composer wrote the music for `` West Side Story '' ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "Where is the Mall of the America ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is the pH scale ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What type of currency is used in Australia ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "How tall is the Gateway Arch in St. Louis , MO ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How much does the human adult female brain weigh ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Who was the first governor of Alaska ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is a prism ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "When was the first liver transplant ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Who was elected president of South Africa in 1994 ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is the population of China ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "When was Rosa Parks born ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Why is a ladybug helpful ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is amoxicillin ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who was the first female United States Representative ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What are xerophytes ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What country did Ponce de Leon come from ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is desktop publishing ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the temperature of the sun 's surface ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What year did Canada join the United Nations ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the oldest university in the US ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "Where is Prince Edward Island ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Mercury , what year was it discovered ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is cryogenics ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What are coral reefs ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the longest major league baseball-winning streak ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is neurology ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who invented the calculator ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "How do you measure earthquakes ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who is Duke Ellington ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What county is Phoenix , AZ in ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is a micron ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "The sun 's core , what is the temperature ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the Ohio state bird ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "When were William Shakespeare 's twins born ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the highest dam in the U.S. ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What color is a poison arrow frog ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is acupuncture ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the length of the coastline of the state of Alaska ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the name of Neil Armstrong 's wife ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is Hawaii 's state flower ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Who won Ms. American in 1989 ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "When did the Hindenberg crash ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What mineral helps prevent osteoporosis ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What was the last year that the Chicago Cubs won the World Series ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Where is Perth ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What year did WWII begin ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the diameter of a golf ball ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is an eclipse ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who discovered America ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is the earth 's diameter ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Which president was unmarried ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "How wide is the Milky Way galaxy ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "During which season do most thunderstorms occur ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is Wimbledon ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the gestation period for a cat ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How far is a nautical mile ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What does target heart rate mean ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What was the first satellite to go into space ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is foreclosure ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the major fault line near Kentucky ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Where is the Holland Tunnel ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Who wrote the hymn `` Amazing Grace '' ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What position did Willie Davis play in baseball ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What are platelets ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is severance pay ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the name of Roy Roger 's dog ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Where are the National Archives ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is a baby turkey called ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is poliomyelitis ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the longest bone in the human body ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Who is a German philosopher ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What were Christopher Columbus ' three ships ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What does Phi Beta Kappa mean ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is nicotine ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is another name for vitamin B1 ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Who discovered radium ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What are sunspots ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "When was Algeria colonized ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What baseball team was the first to make numbers part of their uniform ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What continent is Egypt on ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is the capital of Mongolia ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is nanotechnology ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "In the late 1700 's British convicts were used to populate which colony ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What state is the geographic center of the lower 48 states ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is an obtuse angle ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What are polymers ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "When is hurricane season in the Caribbean ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Where is the volcano Mauna Loa ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is another astronomic term for the Northern Lights ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What peninsula is Spain part of ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "When was Lyndon B. Johnson born ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is acetaminophen ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What state has the least amount of rain per year ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Who founded American Red Cross ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What year did the Milwaukee Braves become the Atlanta Braves ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How fast is alcohol absorbed ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "When is the summer solstice ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is supernova ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Where is the Shawnee National Forest ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What U.S. state 's motto is `` Live free or Die '' ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Where is the Lourve ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "When was the first stamp issued ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What primary colors do you mix to make orange ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "How far is Pluto from the sun ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What body of water are the Canary Islands in ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is neuropathy ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Where is the Euphrates River ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is cryptography ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is natural gas composed of ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Who is the Prime Minister of Canada ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What French ruler was defeated at the battle of Waterloo ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is leukemia ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Where did Howard Hughes die ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is the birthstone for June ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the sales tax in Minnesota ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the distance in miles from the earth to the sun ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the average life span for a chicken ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "When was the first Wal-Mart store opened ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is relative humidity ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What city has the zip code of 35824 ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What currency is used in Algeria ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Who invented the hula hoop ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What was the most popular toy in 1957 ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is pastrami made of ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the name of the satellite that the Soviet Union sent into space in 1957 ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What city 's newspaper is called `` The Enquirer '' ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Who invented the slinky ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What are the animals that don 't have backbones called ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the melting point of copper ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Where is the volcano Olympus Mons located ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Who was the 23rd president of the United States ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is the average body temperature ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What does a defibrillator do ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the effect of acid rain ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What year did the United States abolish the draft ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How fast is the speed of light ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What province is Montreal in ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What New York City structure is also known as the Twin Towers ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is fungus ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the most frequently spoken language in the Netherlands ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is sodium chloride ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What are the spots on dominoes called ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "How many pounds in a ton ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is influenza ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is ozone depletion ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What year was the Mona Lisa painted ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What does `` Sitting Shiva '' mean ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the electrical output in Madrid , Spain ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Which mountain range in North America stretches from Maine to Georgia ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is plastic made of ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the population of Nigeria ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What does your spleen do ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Where is the Grand Canyon ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Who invented the telephone ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What year did the U.S. buy Alaska ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the name of the leader of Ireland ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is phenylalanine ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "How many gallons of water are there in a cubic foot ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What are the two houses of the Legislative branch ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is sonar ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "In Poland , where do most people live ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is phosphorus ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the location of the Sea of Tranquility ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "How fast is sound ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What French province is cognac produced in ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is Valentine 's Day ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What causes gray hair ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is hypertension ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is bandwidth ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the longest suspension bridge in the U.S. ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is a parasite ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is home equity ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What do meteorologists do ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the criterion for being legally blind ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Who is the tallest man in the world ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What are the twin cities ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What did Edward Binney and Howard Smith invent in 1903 ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the statue of liberty made of ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is pilates ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What planet is known as the `` red '' planet ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is the depth of the Nile river ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the colorful Korean traditional dress called ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is Mardi Gras ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Mexican pesos are worth what in U.S. dollars ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Who was the first African American to play for the Brooklyn Dodgers ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "Who was the first Prime Minister of Canada ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "How many Admirals are there in the U.S. Navy ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What instrument did Glenn Miller play ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "How old was Joan of Arc when she died ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What does the word fortnight mean ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is dianetics ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the capital of Ethiopia ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "For how long is an elephant pregnant ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How did Janice Joplin die ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the primary language in Iceland ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the difference between AM radio stations and FM radio stations ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is osteoporosis ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who was the first woman governor in the U.S. ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is peyote ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the esophagus used for ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is viscosity ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What year did Oklahoma become a state ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the abbreviation for Texas ?",
+        "ans_text": "Abbreviation"
+    },
+    {
+        "text": "What is a mirror made out of ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Where on the body is a mortarboard worn ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What was J.F.K. 's wife 's name ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What does I.V. stand for ?",
+        "ans_text": "Abbreviation"
+    },
+    {
+        "text": "What is the chunnel ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Where is Hitler buried ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What are antacids ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is pulmonary fibrosis ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What are Quaaludes ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is naproxen ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is strep throat ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the largest city in the U.S. ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is foot and mouth disease ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the life expectancy of a dollar bill ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What do you call a professional map drawer ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What are Aborigines ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is hybridization ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What color is indigo ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "How old do you have to be in order to rent a car in Italy ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What does a barometer measure ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What color is a giraffe 's tongue ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What does USPS stand for ?",
+        "ans_text": "Abbreviation"
+    },
+    {
+        "text": "What year did the NFL go on strike ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is solar wind ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What date did Neil Armstrong land on the moon ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "When was Hiroshima bombed ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Where is the Savannah River ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Who was the first woman killed in the Vietnam War ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What planet has the strongest magnetic field of all the planets ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Who is the governor of Alaska ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What year did Mussolini seize power in Italy ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the capital of Persia ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Where is the Eiffel Tower ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "How many hearts does an octopus have ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is pneumonia ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the deepest lake in the US ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is a fuel cell ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who was the first U.S. president to appear on TV ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "Where is the Little League Museum ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What are the two types of twins ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the brightest star ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is diabetes ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "When was President Kennedy shot ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is TMJ ?",
+        "ans_text": "Abbreviation"
+    },
+    {
+        "text": "What color is yak milk ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What date was Dwight D. Eisenhower born ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What does the technical term ISDN mean ?",
+        "ans_text": "Abbreviation"
+    },
+    {
+        "text": "Why is the sun yellow ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the conversion rate between dollars and pounds ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "When was Abraham Lincoln born ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the Milky Way ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is mold ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What year was Mozart born ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is a group of frogs called ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the name of William Penn 's ship ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the melting point of gold ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the street address of the White House ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is semolina ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What fruit is Melba sauce made from ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is Ursa Major ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the percentage of water content in the human body ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How much does water weigh ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What was President Lyndon Johnson 's reform program called ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the murder rate in Windsor , Ontario ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Who is the only president to serve 2 non-consecutive terms ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is the population of Australia ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Who painted the ceiling of the Sistine Chapel ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "Name a stimulant .",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the effect of volcanoes on the climate ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What year did the Andy Griffith show begin ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is acid rain ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the date of Mexico 's independence ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the location of Lake Champlain ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is the Illinois state flower ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is Maryland 's state bird ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is quicksilver ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who wrote `` The Divine Comedy '' ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is the speed of light ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the width of a football field ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Why in tennis are zero points called love ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What kind of dog was Toto in the Wizard of Oz ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is a thyroid ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What does ciao mean ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the only artery that carries blue blood from the heart to the lungs ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "How often does Old Faithful erupt at Yellowstone National Park ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is acetic acid ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the elevation of St. Louis , MO ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What color does litmus paper turn when it comes into contact with a strong acid ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What are the colors of the German flag ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the Moulin Rouge ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What soviet seaport is on the Black Sea ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is the atomic weight of silver ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What currency do they use in Brazil ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What are pathogens ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is mad cow disease ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Name a food high in zinc .",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "When did North Carolina enter the union ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Where do apple snails live ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What are ethics ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What does CPR stand for ?",
+        "ans_text": "Abbreviation"
+    },
+    {
+        "text": "What is an annuity ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who killed John F. Kennedy ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "Who was the first vice president of the U.S. ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What birthstone is turquoise ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Who was the first US President to ride in an automobile to his inauguration ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "How old was the youngest president of the United States ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "When was Ulysses S. Grant born ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is Muscular Dystrophy ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who lived in the Neuschwanstein castle ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is propylene glycol ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is a panic disorder ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who invented the instant Polaroid camera ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is a carcinogen ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is a baby lion called ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the world 's population ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is nepotism ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is die-casting ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is myopia ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the sales tax rate in New York ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Developing nations comprise what percentage of the world 's population ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the fourth highest mountain in the world ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is Shakespeare 's nickname ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is the heaviest naturally occurring element ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "When is Father 's Day ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What does the acronym NASA stand for ?",
+        "ans_text": "Abbreviation"
+    },
+    {
+        "text": "How long is the Columbia River in miles ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What city 's newspaper is called `` The Star '' ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is carbon dioxide ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Where is the Mason/Dixon line ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "When was the Boston tea party ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is metabolism ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Which U.S.A. president appeared on `` Laugh-In '' ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What are cigarettes made of ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the capital of Zimbabwe ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What does NASA stand for ?",
+        "ans_text": "Abbreviation"
+    },
+    {
+        "text": "What is the state flower of Michigan ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What are semiconductors ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is nuclear power ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is a tsunami ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who is the congressman from state of Texas on the armed forces committee ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "Who was president in 1913 ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "When was the first kidney transplant ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What are Canada 's two territories ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What was the name of the plane Lindbergh flew solo across the Atlantic ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is genocide ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What continent is Argentina on ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What monastery was raided by Vikings in the late eighth century ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is an earthquake ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Where is the tallest roller coaster located ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What are enzymes ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "Who discovered oxygen ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is bangers and mash ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the name given to the Tiger at Louisiana State University ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Where are the British crown jewels kept ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Who was the first person to reach the North Pole ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is an ulcer ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is vertigo ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is the spirometer test ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "When is the official first day of summer ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What does the abbreviation SOS mean ?",
+        "ans_text": "Abbreviation"
+    },
+    {
+        "text": "What is the smallest bird in Britain ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Who invented Trivial Pursuit ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What gasses are in the troposphere ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Which country has the most water pollution ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is the scientific name for elephant ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Who is the actress known for her role in the movie `` Gypsy '' ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What breed of hunting dog did the Beverly Hillbillies own ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the rainiest place on Earth ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "Who was the first African American to win the Nobel Prize in literature ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "When is St. Patrick 's Day ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What was FDR 's dog 's name ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What colors need to be mixed to get the color pink ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the most popular sport in Japan ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the active ingredient in baking soda ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "When was Thomas Jefferson born ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How cold should a refrigerator be ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "When was the telephone invented ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the most common eye color ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Where was the first golf course in the United States ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is schizophrenia ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is angiotensin ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What did Jesse Jackson organize ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is New York 's state bird ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the National Park in Utah ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is Susan B. Anthony 's birthday ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "In which state would you find the Catskill Mountains ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What do you call a word that is spelled the same backwards and forwards ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What are pediatricians ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What chain store is headquartered in Bentonville , Arkansas ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What are solar cells ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is compounded interest ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What are capers ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is an antigen ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What currency does Luxembourg use ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is the population of Venezuela ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What type of polymer is used for bulletproof vests ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What currency does Argentina use ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is a thermometer ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What Canadian city has the largest population ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What color are crickets ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "Which country gave New York the Statue of Liberty ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What was the name of the first U.S. satellite sent into space ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What precious stone is a form of pure carbon ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What kind of gas is in a fluorescent bulb ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is rheumatoid arthritis ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What river runs through Rowe , Italy ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "What is cerebral palsy ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What city is also known as `` The Gateway to the West '' ?",
+        "ans_text": "Location"
+    },
+    {
+        "text": "How far away is the moon ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the source of natural gas ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is pectin ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What is bio-diversity ?",
+        "ans_text": "Description"
+    },
+    {
+        "text": "What 's the easiest way to remove wallpaper ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What year did the Titanic start on its journey ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "How much of an apple is water ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "Who was the 22nd President of the US ?",
+        "ans_text": "Person"
+    },
+    {
+        "text": "What is the money they use in Zambia ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "How many feet in a mile ?",
+        "ans_text": "Number"
+    },
+    {
+        "text": "What is the birthstone of October ?",
+        "ans_text": "Entity"
+    },
+    {
+        "text": "What is e-coli ?",
+        "ans_text": "Description"
+    }
+]
