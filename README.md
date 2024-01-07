@@ -20,6 +20,7 @@ Enhance the capabilities of small language models using grimoires.
 - [Get Started](#get-started)
 - [Results](#results)
 - [Contact Us](#contact-us)
+- [Citation](#citation)
 
 
 ## Project Structure
@@ -67,7 +68,7 @@ The project is organized into several key directories and modules. Here's an ove
 For any questions, feedback, or suggestions, please open a GitHub Issue. You can reach out through [GitHub Issues](https://github.com/IAAR-Shanghai/Grimoire/issues).
 
 
-## CITATION
+## Citation
 ```
 @article{grimoire,
       title={Grimoire is All You Need for Enhancing Large Language Models}, 
