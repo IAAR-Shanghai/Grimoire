@@ -26,6 +26,7 @@
 该项目结构包括几个关键模块。以下是项目结构的概览：
 ```
 .
+├── archived      # 存储我们的实验所使用的grimoire和hard样本。
 ├── assets        # 存储项目素材，例如图像、图表或任何用于增强项目演示和理解的素材。
 ├── configs       # 存储配置文件。
 ├── core          # 核心代码库。
@@ -52,6 +53,7 @@
 3. 配置
    * 在 [configs/llm.yaml](configs/llm.yaml) 中配置 LLMS。
    * 在 [configs/experiment.yaml](configs/experiment.yaml) 中配置实验。
+   * 如果需要复现我们的实验，可以将本所使用的grimoire和hard样本通过如下命令加载至当前路径下：`cp -r ./archived/.cache ./`
 4. 查看 [experiments.py](experiments.py) 以了解如何运行实验。
 5. 运行 [analyst.py](analyst.py) 以分析保存在 `outputs` 中的结果。
 

@@ -1,0 +1,9 @@
+__pycache__
+.vscode
+.idea
+
+.cache
+outputs
+stats
+
+*.pickle
