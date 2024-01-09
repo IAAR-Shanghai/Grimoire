@@ -1,15 +1,3 @@
-[English](./README.md) | [中文简体](./README.zh_CN.md)
-
-<a href="https://opensource.org/license/apache-2-0/">
-    <img alt="License: Apache" src="https://img.shields.io/badge/License-Apache2.0-green.svg">
-</a>
-<a href="https://github.com/IAAR-Shanghai/Grimoire/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Grimoire/issues">
-</a>
-<a href="https://arxiv.org/abs/2401.03385">
-    <img alt="arXiv Paper" src="https://img.shields.io/badge/Paper-arXiv-blue.svg">
-</a>
-
 # 📖 Grimoire
 
 Enhance the capabilities of small language models using grimoires.
@@ -19,8 +7,6 @@ Enhance the capabilities of small language models using grimoires.
 - [Project Structure](#project-structure)
 - [Get Started](#get-started)
 - [Results](#results)
-- [Contact Us](#contact-us)
-- [Citation](#citation)
 
 
 ## Project Structure
@@ -64,20 +50,3 @@ The project is organized into several key directories and modules. Here's an ove
 <p align="center"><img src="./assets/res_gpt-3.5-turbo.jpg" alt=""></p>
 <p align="center"><img src="./assets/acc_diff_grim_to_baseline.jpg" alt=""></p>
 
-
-## Contact Us
-
-For any questions, feedback, or suggestions, please open a GitHub Issue. You can reach out through [GitHub Issues](https://github.com/IAAR-Shanghai/Grimoire/issues).
-
-
-## Citation
-```
-@article{grimoire,
-      title={Grimoire is All You Need for Enhancing Large Language Models}, 
-      author={Ding Chen and Shichao Song and Qingchen Yu and Zhiyu Li and Wenjin Wang and Feiyu Xiong and Bo Tang},
-      year={2024},
-      eprint={2401.03385},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
