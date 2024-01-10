@@ -4,6 +4,7 @@ Note that the output should satisfy:
 1. Provide no more than three general rules.
 2. Try to be as brief as possible.
 
+
 Content:
 
-{deluxe_grimoire}
+{profound_grimoire}

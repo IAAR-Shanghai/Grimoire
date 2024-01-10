@@ -166,6 +166,6 @@ class GrimoireClassifyEvaluator(BaseEvaluator):
             grimoire_path = os.path.join(grimoire_dir, filename)
             with open(grimoire_path, 'r') as f:
                 grimoire_dict = json.load(f)
-            grimoires['deluxe-' + filename] = grimoire_dict['deluxe_grimoire']
-            grimoires['basic-' + filename] = grimoire_dict['basic_grimoire']
+            grimoires['profound-' + filename] = grimoire_dict['profound_grimoire']
+            grimoires['simple-' + filename] = grimoire_dict['simple_grimoire']
         return grimoires
