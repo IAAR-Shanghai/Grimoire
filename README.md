@@ -3,8 +3,8 @@
 <a href="https://opensource.org/license/apache-2-0/">
     <img alt="License: Apache" src="https://img.shields.io/badge/License-Apache2.0-green.svg">
 </a>
-<a href="https://github.com/IAAR-Shanghai/Grimoire/issues" color="#660000">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/IAAR-Shanghai/Grimoire">
+<a href="https://github.com/IAAR-Shanghai/Grimoire/issues">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/IAAR-Shanghai/Grimoire" color="#660000">
 </a>
 <a href="https://arxiv.org/abs/2401.03385">
     <img alt="arXiv Paper" src="https://img.shields.io/badge/Paper-arXiv-blue.svg">
