@@ -10,7 +10,7 @@
     <img alt="arXiv Paper" src="https://img.shields.io/badge/Paper-arXiv-blue.svg">
 </a>
 
-# 📖 Grimoire is All You Need for Enhancing Large Language Models
+# 📖 Grimoire is All You Need for Enhancing LLMs
 
 In-context learning (ICL) is one of the key methods for enhancing the performance of large language models on specific tasks by providing a set of few-shot question and answer examples. However, the ICL capability of different types of models shows significant variation due to factors such as model architecture, volume of learning data, and the size of parameters. Generally, the larger the model's parameter size and the more extensive the learning data, the stronger its ICL capability. In this paper, we propose a method SLEICL (Strong LLM Enhanced ICL) that `involves learning from examples using strong language models and then summarizing and transferring these learned skills to weak language models for inference and application.` 
 
