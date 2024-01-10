@@ -4,7 +4,7 @@
     <img alt="License: Apache" src="https://img.shields.io/badge/License-Apache2.0-green.svg">
 </a>
 <a href="https://github.com/IAAR-Shanghai/Grimoire/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Grimoire/issues">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/IAAR-Shanghai/Grimoire/issues">
 </a>
 <a href="https://arxiv.org/abs/2401.03385">
     <img alt="arXiv Paper" src="https://img.shields.io/badge/Paper-arXiv-blue.svg">
