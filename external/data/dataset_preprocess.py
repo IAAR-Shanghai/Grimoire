@@ -81,8 +81,8 @@ def GRIMOIRE_LEN_TYPE(grimoire_len: int) -> int:
 
 
 GRIMOIRE_TYPE = {
-    "basic": 0,
-    "deluxe": 1
+    "simple": 0,
+    "profound": 1
 }
 
 

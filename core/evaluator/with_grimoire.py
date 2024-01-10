@@ -81,4 +81,4 @@ class WithGrimoireEvaluator(BaseEvaluator):
         """Read grimoire from a file and return the content."""
         with open(self.grimoire_path, 'r', encoding='utf-8') as f:
             grimoire = json.load(f)
-        return grimoire['deluxe_grimoire' if self.verbose else 'basic_grimoire']
+        return grimoire['profound_grimoire' if self.verbose else 'simple_grimoire']
