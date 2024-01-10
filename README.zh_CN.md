@@ -1,5 +1,10 @@
 [English](./README.md) | [中文简体](./README.zh_CN.md)
 
+<h1 align="center">
+    📖 Grimoire is All You Need for Enhancing LLMs
+</h1>
+<p align="center">💡Enhance the capabilities of small language models using grimoires.
+<p align="center">
 <a href="https://opensource.org/license/apache-2-0/">
     <img alt="License: Apache" src="https://img.shields.io/badge/License-Apache2.0-green.svg">
 </a>
@@ -8,21 +13,22 @@
 </a>
 <a href="https://arxiv.org/abs/2401.03385">
     <img alt="arXiv Paper" src="https://img.shields.io/badge/Paper-arXiv-blue.svg">
-</a>
-
-# 📖 Grimoire
-
-上下文学习（ICL）是增强大型语言模型在特定任务上性能的关键方法之一，具体而言是通过提供一组少量的示例样本辅助大模型。然而，不同类型的模型在ICL能力上表现出显著差异，这是由模型架构、学习数据量和参数大小等因素造成的。通常来说，模型参数越大，学习数据越广泛，ICL能力越强。在本文中，我们提出了一种名为SLEICL（Strong LLM Enhanced ICL）的方法，该方法`通过使用强语言模型从示例中学习，然后进行总结归纳并将这些学到的技能（Grimoire）传递给弱语言模型来辅助其进行推理和应用。`
-
-这种方法确保了ICL的稳定性和有效性。相对于直接让弱语言模型从提示示例中学习，SLEICL降低了这些模型的ICL难度。我们在5个语言模型上进行的实验证明，使用SLEICL方法，弱语言模型的表现相对于Zero-shot或者Few-shot设置时都实现了一致的改进。甚至一些弱语言模型在SLEICL的帮助下超越了GPT4-1106-preview（Zero-shot）的性能。
-<p align="center"><img src="./assets/grim_framework.jpg" alt=""></p>
+</a></p>
 
 ## 目录
+- [介绍](#介绍)
 - [项目结构](#项目结构)
 - [快速开始](#快速开始)
 - [实验结果](#实验结果)
 - [联系我们](#联系我们)
 - [引用](#引用)
+
+## 介绍
+
+上下文学习（ICL）是增强大型语言模型在特定任务上性能的关键方法之一，具体而言是通过提供一组少量的示例样本辅助大模型。然而，不同类型的模型在ICL能力上表现出显著差异，这是由模型架构、学习数据量和参数大小等因素造成的。通常来说，模型参数越大，学习数据越广泛，ICL能力越强。在本文中，我们提出了一种名为SLEICL（Strong LLM Enhanced ICL）的方法，该方法`通过使用强语言模型从示例中学习，然后进行总结归纳并将这些学到的技能（Grimoire）传递给弱语言模型来辅助其进行推理和应用。`
+
+这种方法确保了ICL的稳定性和有效性。相对于直接让弱语言模型从提示示例中学习，SLEICL降低了这些模型的ICL难度。我们在5个语言模型上进行的实验证明，使用SLEICL方法，弱语言模型的表现相对于Zero-shot或者Few-shot设置时都实现了一致的改进。甚至一些弱语言模型在SLEICL的帮助下超越了GPT4-1106-preview（Zero-shot）的性能。
+<p align="center"><img src="./assets/grim_framework.jpg" alt=""></p>
 
 ## 项目结构
 该项目结构包括几个关键模块。以下是项目结构的概览：

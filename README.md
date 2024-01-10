@@ -1,5 +1,11 @@
 [English](./README.md) | [中文简体](./README.zh_CN.md)
 
+
+<h1 align="center">
+    📖 Grimoire is All You Need for Enhancing LLMs
+</h1>
+<p align="center">💡Enhance the capabilities of small language models using grimoires.
+<p align="center">
 <a href="https://opensource.org/license/apache-2-0/">
     <img alt="License: Apache" src="https://img.shields.io/badge/License-Apache2.0-green.svg">
 </a>
@@ -8,23 +14,23 @@
 </a>
 <a href="https://arxiv.org/abs/2401.03385">
     <img alt="arXiv Paper" src="https://img.shields.io/badge/Paper-arXiv-blue.svg">
-</a>
-
-# 📖 Grimoire is All You Need for Enhancing LLMs
-
-In-context learning (ICL) is one of the key methods for enhancing the performance of large language models on specific tasks by providing a set of few-shot question and answer examples. However, the ICL capability of different types of models shows significant variation due to factors such as model architecture, volume of learning data, and the size of parameters. Generally, the larger the model's parameter size and the more extensive the learning data, the stronger its ICL capability. In this paper, we propose a method SLEICL (Strong LLM Enhanced ICL) that `involves learning from examples using strong language models and then summarizing and transferring these learned skills to weak language models for inference and application.` 
-
-This ensures the stability and effectiveness of ICL. Compared to directly enabling weak language models to learn from prompt examples, SLEICL reduces the difficulty of ICL for these models. Our experiments, conducted on up to eight datasets with five language models, demonstrate that weak language models achieve consistent improvement over their own zero-shot or few-shot capabilities using the SLEICL method. Some weak language models even surpass the performance of GPT4-1106-preview (zero-shot) with the aid of SLEICL.
-
-<p align="center"><img src="./assets/grim_framework.jpg" alt=""></p>
+</a></p>
 
 ## Contents
+- [Introduction](#introduction)
 - [Project Structure](#project-structure)
 - [Get Started](#get-started)
 - [Results](#results)
 - [Contact Us](#contact-us)
 - [Citation](#citation)
 
+## Introduction
+
+In-context learning (ICL) is one of the key methods for enhancing the performance of large language models on specific tasks by providing a set of few-shot question and answer examples. However, the ICL capability of different types of models shows significant variation due to factors such as model architecture, volume of learning data, and the size of parameters. Generally, the larger the model's parameter size and the more extensive the learning data, the stronger its ICL capability. In this paper, we propose a method SLEICL (Strong LLM Enhanced ICL) that `involves learning from examples using strong language models and then summarizing and transferring these learned skills to weak language models for inference and application.` 
+
+This ensures the stability and effectiveness of ICL. Compared to directly enabling weak language models to learn from prompt examples, SLEICL reduces the difficulty of ICL for these models. Our experiments, conducted on up to eight datasets with five language models, demonstrate that weak language models achieve consistent improvement over their own zero-shot or few-shot capabilities using the SLEICL method. Some weak language models even surpass the performance of GPT4-1106-preview (zero-shot) with the aid of SLEICL.
+
+<p align="center"><img src="./assets/grim_framework.jpg" alt=""></p>
 
 ## Project Structure
 The project is organized into several key directories and modules. Here's an overview of the project structure:
