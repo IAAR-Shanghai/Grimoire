@@ -22,6 +22,7 @@
 - [Get Started](#get-started)
 - [Results](#results)
 - [Contact Us](#contact-us)
+- [TODOs](#TODOs)
 - [Citation](#citation)
 
 ## Introduction
@@ -78,6 +79,18 @@ The project is organized into several key directories and modules. Here's an ove
 
 For any questions, feedback, or suggestions, please open a GitHub Issue. You can reach out through [GitHub Issues](https://github.com/IAAR-Shanghai/Grimoire/issues).
 
+## TODOs
+
+<details>
+<summary>Click me to show all TODOs</summary>
+
+- [ ] Write a unified setup.sh to implement automatic environment configuration and the implementation of embed.py and compute_similarity.py;
+- [ ] Provides a simple tutorial on deploying Vllm models;
+- [ ] Load large models directly from huggingface;
+- [ ] Add configurable items in experiment.yaml;
+- [ ] The experimental environment and code are packaged based on Docker, which is convenient for researchers to use and deploy quickly;
+
+</details>
 
 ## Citation
 ```
