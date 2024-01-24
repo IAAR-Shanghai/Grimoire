@@ -85,7 +85,7 @@ For any questions, feedback, or suggestions, please open a GitHub Issue. You can
 <summary>Click me to show all TODOs</summary>
 
 - [ ] Write a unified setup.sh to implement automatic environment configuration and the implementation of embed.py and compute_similarity.py;
-- [ ] Provides a simple tutorial on deploying Vllm models;
+- [x] Provides a simple tutorial on deploying Vllm models;
 - [x] Load large models directly from huggingface;
 - [ ] Add configurable items in experiment.yaml;
 - [ ] The experimental environment and code are packaged based on Docker, which is convenient for researchers to use and deploy quickly;
