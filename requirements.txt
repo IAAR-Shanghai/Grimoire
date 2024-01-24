@@ -5,6 +5,7 @@ sentence_transformers==2.2.2
 torch==2.1.1
 transformers==4.35.2
 tenacity==8.2.3
+accelerate==0.26.1
 numpy
 scipy
 scikit-learn

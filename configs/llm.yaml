@@ -65,3 +65,10 @@ Qwen_14B_Chat:
 Qwen_7B_Chat:
     type: Local
     url: "http://xx.xx.xx.xx:xxxx/generate"
+
+# ─── Models Accessed Through Hugging Face ────────────────────────────────
+# Note: Remote models are only for internal use.
+
+AquilaChat2_7B:
+    type: hf
+    url: "BAAI/AquilaChat2-7B"

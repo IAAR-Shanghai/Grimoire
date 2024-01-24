@@ -47,6 +47,9 @@ llm:
             model_name: gpt-4-1106-preview
             report: true
 
+    hf:
+        - AquilaChat2_7B: ~
+        
 
 # ─── The Model Used To Generate Grimoire ──────────────────────────────────────
 

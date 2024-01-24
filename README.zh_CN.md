@@ -80,7 +80,7 @@
 
 - [ ] 编写统一的 setup.sh 来实现自动的环境配置和 embed.py 和 compute_similarity.py 的执行；
 - [ ] 提供一个部署 Vllm 模型的简易教程；
-- [ ] 实现直接从huggingface加载大模型；
+- [x] 实现直接从huggingface加载大模型；
 - [ ] 增加 experiment.yaml 中的可配置项；
 - [ ] 基于 Docker 对实验环境和代码进行打包，便于研究者快速使用部署；
 
