@@ -24,6 +24,7 @@
 - [Contact Us](#contact-us)
 - [TODOs](#TODOs)
 - [Citation](#citation)
+- [Star History](#star-history)
 
 ## Introduction
 
@@ -84,22 +85,31 @@ For any questions, feedback, or suggestions, please open a GitHub Issue. You can
 <details>
 <summary>Click me to show all TODOs</summary>
 
+<<<<<<< HEAD
 - [ ] Write a unified setup.sh to implement automatic environment configuration and the implementation of embed.py and compute_similarity.py;
 - [x] Provides a simple tutorial on deploying Vllm models;
 - [x] Load large models directly from huggingface;
 - [ ] Add configurable items in experiment.yaml;
+=======
+- [ ] Write a unified `setup.sh` to implement automatic environment configuration and the implementation of `embed.py` and `compute_similarity.py`;
+- [ ] Provides a simple tutorial on deploying vllm models;
+- [ ] Load large models directly from `huggingface`;
+- [ ] Add configurable items in `experiment.yaml`;
+>>>>>>> main
 - [ ] The experimental environment and code are packaged based on Docker, which is convenient for researchers to use and deploy quickly;
 
 </details>
 
 ## Citation
 ```
-@article{grimoire,
+@article{Grimoire,
       title={Grimoire is All You Need for Enhancing Large Language Models}, 
       author={Ding Chen and Shichao Song and Qingchen Yu and Zhiyu Li and Wenjin Wang and Feiyu Xiong and Bo Tang},
+      journal={arXiv preprint arXiv:2401.03385},
       year={2024},
-      eprint={2401.03385},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=IAAR-Shanghai/Grimoire&type=Date)](https://star-history.com/#IAAR-Shanghai/Grimoire&Date)
