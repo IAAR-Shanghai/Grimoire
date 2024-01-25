@@ -78,22 +78,20 @@
 <details>
 <summary>展开所有待办事项</summary>
 
-- [ ] 编写统一的 setup.sh 来实现自动的环境配置和 embed.py 和 compute_similarity.py 的执行；
-- [ ] 提供一个部署 Vllm 模型的简易教程；
-- [ ] 实现直接从huggingface加载大模型；
-- [ ] 增加 experiment.yaml 中的可配置项；
+- [ ] 编写统一的 `setup.sh` 来实现自动的环境配置和 `embed.py` 和 `compute_similarity.py` 的执行；
+- [ ] 提供一个部署 vllm 模型的简易教程；
+- [ ] 实现直接从`huggingface`加载大模型；
+- [ ] 增加 `experiment.yaml` 中的可配置项；
 - [ ] 基于 Docker 对实验环境和代码进行打包，便于研究者快速使用部署；
 
 </details>
 
 ## 引用
 ```
-@article{grimoire,
+@article{Grimoire,
       title={Grimoire is All You Need for Enhancing Large Language Models}, 
       author={Ding Chen and Shichao Song and Qingchen Yu and Zhiyu Li and Wenjin Wang and Feiyu Xiong and Bo Tang},
+      journal={arXiv preprint arXiv:2401.03385},
       year={2024},
-      eprint={2401.03385},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
 }
 ```
