@@ -57,9 +57,8 @@ The project is organized into several key directories and modules. Here's an ove
 ## Get Started
 
 1. Clone the repository.
-```
-git clone https://github.com/IAAR-Shanghai/Grimoire.git && cd Grimoire
-```
+   * `git clone https://github.com/IAAR-Shanghai/Grimoire.git && cd Grimoire`
+   
 2. Prepare for the conda environment.
    * `conda create -n grimoire python=3.8.18`
    * `conda activate grimoire`

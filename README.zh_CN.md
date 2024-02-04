@@ -52,9 +52,8 @@
 
 ## 快速开始
 1. 克隆仓库
-```
-git clone https://github.com/IAAR-Shanghai/Grimoire.git && cd Grimoire
-```
+   * `git clone https://github.com/IAAR-Shanghai/Grimoire.git && cd Grimoire`
+
 2. 准备环境
    * `conda create -n grimoire python=3.8.18`
    * `conda activate grimoire`
