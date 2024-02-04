@@ -56,20 +56,24 @@ The project is organized into several key directories and modules. Here's an ove
 
 ## Get Started
 
-1. Prepare for the environment.
+1. Clone the repository.
+```
+git clone https://github.com/IAAR-Shanghai/Grimoire.git && cd Grimoire
+```
+2. Prepare for the conda environment.
    * `conda create -n grimoire python=3.8.18`
    * `conda activate grimoire`
-   * `pip install -r requirements.txt`
-2. Run
-   * [data/embed.py](data/embed.py) to embed datasets.
-   * [data/compute_similarity.py](data/compute_similarity.py) to compute similarity matrix.
-   * These are useful when you run similarity-based experiments.
-3. Configure
+3. Install Python dependencies and process the data.
+   * `chmod +x setup.sh`
+   * `./setup.sh`
+4. Configure
    * the llms in [configs/llm.yaml](configs/llm.yaml).
    * the experiments in [configs/experiment.yaml](configs/experiment.yaml).
    * If it is necessary to reproduce our experiment, you can load the grimoire and hard samples used in this experiment to the current path using the following command: `cp -r ./archived/.cache ./`.
-4. Look into [experiments.py](experiments.py) to see how to run experiments.
-5. Run [analyst.py](analyst.py) to analyze the results saved in `outputs`.
+5. Look into [experiments.py](experiments.py) to see how to run experiments.
+6. Run [analyst.py](analyst.py) to analyze the results saved in `outputs`.
+
+**Note:** Regarding the deployment of LLMs, we also provide some reference [tutorials](./vllm.md).
 
 ## Results
 <p align="center"><img src="./assets/res_gpt-3.5-turbo.jpg" alt=""></p>
@@ -85,17 +89,10 @@ For any questions, feedback, or suggestions, please open a GitHub Issue. You can
 <details>
 <summary>Click me to show all TODOs</summary>
 
-<<<<<<< HEAD
-- [ ] Write a unified setup.sh to implement automatic environment configuration and the implementation of embed.py and compute_similarity.py;
-- [x] Provides a simple tutorial on deploying Vllm models;
-- [x] Load large models directly from huggingface;
-- [ ] Add configurable items in experiment.yaml;
-=======
-- [ ] Write a unified `setup.sh` to implement automatic environment configuration and the implementation of `embed.py` and `compute_similarity.py`;
-- [ ] Provides a simple tutorial on deploying vllm models;
-- [ ] Load large models directly from `huggingface`;
+- [x] Write a unified `setup.sh` to implement Python dependencies installation and the implementation of `embed.py` and `compute_similarity.py`;
+- [x] Provides a simple tutorial on deploying vllm models;
+- [x] Load large models directly from `huggingface`;
 - [ ] Add configurable items in `experiment.yaml`;
->>>>>>> main
 - [ ] The experimental environment and code are packaged based on Docker, which is convenient for researchers to use and deploy quickly;
 
 </details>
