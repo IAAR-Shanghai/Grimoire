@@ -161,7 +161,7 @@ class BaseLLM(ABC):
             examples_str = ''
 
         profound_prompt_template = self._read_prompt_template('generate_grimoire_profound.txt')
-        basic_prompt_template = self._read_prompt_template('generate_grimoire_basic.txt')
+        simple_prompt_template = self._read_prompt_template('generate_grimoire_simple.txt')
 
         profound_prompt = profound_prompt_template.format(
             task_description=data_conf['task_description'],
@@ -169,16 +169,16 @@ class BaseLLM(ABC):
         )
         profound_grimoire = self.safe_request(profound_prompt)
 
-        basic_prompt = basic_prompt_template.format(
+        simple_prompt = simple_prompt_template.format(
             profound_grimoire=profound_grimoire
         )
-        basic_grimoire = self.safe_request(basic_prompt)
+        simple_grimoire = self.safe_request(simple_prompt)
 
         start = '\nBelow are some skills needed to solve the task; you need to carefully learn and consider the process and methods step by step:\n\n'
         profound_grimoire = start + profound_grimoire
-        basic_grimoire = start + basic_grimoire
+        simple_grimoire = start + simple_grimoire
 
         grimoire = {'profound_grimoire': profound_grimoire,
-                    'basic_grimoire': basic_grimoire}
+                    'simple_grimoire': simple_grimoire}
 
         return grimoire

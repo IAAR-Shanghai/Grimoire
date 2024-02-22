@@ -51,20 +51,23 @@
 ```
 
 ## 快速开始
-1. 准备环境
+1. 克隆仓库
+   * `git clone https://github.com/IAAR-Shanghai/Grimoire.git && cd Grimoire`
+
+2. 准备环境
    * `conda create -n grimoire python=3.8.18`
    * `conda activate grimoire`
-   * `pip install -r requirements.txt`
-2. 运行
-   * [data/embed.py](data/embed.py) 以嵌入数据集。
-   * [data/compute_similarity.py](data/compute_similarity.py) 以计算相似性矩阵。
-   * 当运行基于相似性的实验时，这些步骤很有用。
-3. 配置
+3. 安装 Python 依赖项并处理数据
+   * `chmod +x setup.sh`
+   * `./setup.sh`
+4. 配置
    * 在 [configs/llm.yaml](configs/llm.yaml) 中配置 LLMS。
    * 在 [configs/experiment.yaml](configs/experiment.yaml) 中配置实验。
    * 如果需要复现我们的实验，可以将本所使用的grimoire和hard样本通过如下命令加载至当前路径下：`cp -r ./archived/.cache ./`
-4. 查看 [experiments.py](experiments.py) 以了解如何运行实验。
-5. 运行 [analyst.py](analyst.py) 以分析保存在 `outputs` 中的结果。
+5. 查看 [experiments.py](experiments.py) 以了解如何运行实验。
+6. 运行 [analyst.py](analyst.py) 以分析保存在 `outputs` 中的结果。
+
+**备注:** 关于大模型部署，我们也提供了一些参考[教程](./vllm.zh_CN.md)。
 
 ## 实验结果
 <p align="center"><img src="./assets/res_gpt-3.5-turbo.jpg" alt=""></p>
@@ -78,9 +81,9 @@
 <details>
 <summary>展开所有待办事项</summary>
 
-- [ ] 编写统一的 `setup.sh` 来实现自动的环境配置和 `embed.py` 和 `compute_similarity.py` 的执行；
-- [ ] 提供一个部署 vllm 模型的简易教程；
-- [ ] 实现直接从`huggingface`加载大模型；
+- [x] 编写统一的 `setup.sh` 来实现自动的Python依赖安装和 `embed.py` 和 `compute_similarity.py` 的执行；
+- [x] 提供一个部署 vllm 模型的简易教程；
+- [x] 实现直接从`huggingface`加载大模型；
 - [ ] 增加 `experiment.yaml` 中的可配置项；
 - [ ] 基于 Docker 对实验环境和代码进行打包，便于研究者快速使用部署；
 

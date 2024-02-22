@@ -94,7 +94,7 @@ class BaseEvaluator(ABC):
         Returns:
             list[dict]: List of results.
         """
-
+        # Multi-process evaluation.
         with Pool(self.process_num) as pool:
             results = list(tqdm(
                 pool.imap(self.scoring, dataset),
@@ -103,6 +103,11 @@ class BaseEvaluator(ABC):
             ))
             # results = pool.map(self.scoring, dataset)
 
+        # Single-process evaluation.
+        # results = []
+        # for data_point in tqdm(dataset, desc=self.model.params['model_name']):
+        #     result = self.scoring(data_point)
+        #     results.append(result)
 
         results = [
             {**result, 'original_data': data_point}
