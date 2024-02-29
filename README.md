@@ -105,7 +105,3 @@ For any questions, feedback, or suggestions, please open a GitHub Issue. You can
       year={2024},
 }
 ```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=IAAR-Shanghai/Grimoire&type=Date)](https://star-history.com/#IAAR-Shanghai/Grimoire&Date)
