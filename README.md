@@ -24,7 +24,6 @@
 - [Contact Us](#contact-us)
 - [TODOs](#TODOs)
 - [Citation](#citation)
-- [Star History](#star-history)
 
 ## Introduction
 
